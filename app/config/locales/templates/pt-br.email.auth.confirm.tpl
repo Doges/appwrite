@@ -2,7 +2,7 @@
     Olá {{name}},
 </p>
 <p>
-    Por favor, confirme o seu email acessando o link abaixo.
+    Confirme o seu email acessando o link abaixo.
 </p>
 {{cta}}
 <p>
